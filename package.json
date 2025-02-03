@@ -1,6 +1,6 @@
 {
   "name": "vue3-year-picker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/vue3-year-picker.cjs.js",
   "module": "dist/vue3-year-picker.es.js",
   "types": "dist/vue3-year-picker.d.ts",
@@ -16,8 +16,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "btn",
-    "button",
+    "year",
+    "picker",
+    "calendar",
     "custome",
     "component",
     "vite",
